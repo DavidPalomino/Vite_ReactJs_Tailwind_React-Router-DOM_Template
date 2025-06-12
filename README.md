@@ -18,5 +18,6 @@ Add your repository as origin remote
 ```
 git remote add origin YOUR_REPOSITORY
 ```
+Good Luck comrade developer
 
-By: David Palomino 
+### Author: David Palomino 
